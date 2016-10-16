@@ -80,7 +80,7 @@ Challenge Owner:
 
 PainScope team:
 
-  * Luan Nguygen
+  * Luan Nguyen
   * Ronnie Lu
   * Mel Duarte
   * Aileen dela Pena
