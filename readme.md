@@ -4,7 +4,7 @@ Painscope is designed to help you deal with managing your chronic pain journey.
 
 PainScope is a simple tracking tool you can use to record where and when pain strikes. You’ll be able to share this information with your medical support team in a concrete and easy-to-read format.
 
-Supporting features like journaling, identifying behaviours that might trigger your condition and connection with wearable devices will assist you in talking about the pain with your medical practitioner.
+Supporting features like journaling, identifying behaviours that might trigger your condition, and (future) integration with wearable devices will assist you in talking about the pain with your medical practitioner.
 
 ## Getting Started
 
